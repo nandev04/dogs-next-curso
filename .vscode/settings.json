@@ -9,7 +9,6 @@
     ".eslintrc*": true,
     "tsconfig.*": true,
     "next-env.d.ts": true,
-    "next.config.mjs": true,
     "README.md": true
   }
 }
